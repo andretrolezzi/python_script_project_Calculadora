@@ -18,7 +18,8 @@ Agora que o arquivo tem permissões de execução, você pode rodá-lo diretamen
 
 O script pedirá para você inserir dois números e, em seguida, escolher uma operação entre soma, subtração, multiplicação e divisão. O resultado será mostrado na tela.
 
-#### Explicação do Código Python
+# Explicação do Código Python
+
 Este script Python implementa uma calculadora simples que permite ao usuário realizar operações matemáticas básicas, como soma, subtração, multiplicação e divisão, entre dois números inseridos. A seguir, explicamos como o código funciona.
 
 O script começa pedindo ao usuário para digitar dois números. Esses números são capturados como entradas de texto e convertidos para o tipo float para permitir cálculos com números decimais:
